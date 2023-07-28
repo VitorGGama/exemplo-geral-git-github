@@ -6,3 +6,14 @@
 ## GitHub
 É uma plataforma de compartilhamento de
 código fonte que usa recursos Git
+
+## Ações e termos comuns
+
+-commit
+-push
+-pull
+-repositório
+
+---
+
+
